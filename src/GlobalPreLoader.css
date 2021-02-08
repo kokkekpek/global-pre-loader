@@ -1,0 +1,4 @@
+.GlobalPreLoader__hide {
+    transition: all 0.15s;
+    opacity: 0;
+}

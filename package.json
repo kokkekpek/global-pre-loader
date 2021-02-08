@@ -1,0 +1,16 @@
+{
+  "name": "global-pre-loader",
+  "main": "index.ts",
+  "license": "MIT",
+  "version": "1.0.0",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "demo-css": "kokkekpek/demo-css",
+    "style-loader": "^1.0.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.6.4",
+    "url-loader": "^2.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
