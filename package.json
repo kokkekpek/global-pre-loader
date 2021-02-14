@@ -2,15 +2,15 @@
   "name": "global-pre-loader",
   "main": "index.ts",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
-    "css-loader": "^3.2.0",
+    "css-loader": "^5.0.2",
     "demo-css": "kokkekpek/demo-css",
-    "style-loader": "^1.0.0",
-    "ts-loader": "^6.2.1",
-    "typescript": "^3.6.4",
-    "url-loader": "^2.2.0",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "style-loader": "^2.0.0",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.1.5",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
   }
 }
