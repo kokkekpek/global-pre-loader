@@ -1,7 +1,7 @@
 # README
 
 ## Build demo
-```bash
+```sh
 cd /path/to/project
 yarn install
 yarn webpack
@@ -51,7 +51,7 @@ Run after loading
 yarn add kokkekpek/global-pre-loader
 ```
 
-```js
+```ts
 import GlobalPreLoader from 'global-pre-loader'
 GlobalPreLoader.hide()
 ```
