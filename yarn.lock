@@ -208,7 +208,7 @@ ajv@^6.12.5:
 
 android-body-scroll-fix-css@kokkekpek/android-body-scroll-fix-css:
   version "1.0.0"
-  resolved "https://codeload.github.com/kokkekpek/android-body-scroll-fix-css/tar.gz/a0a6d94f17152535b16846592a91ffd18325e915"
+  resolved "https://codeload.github.com/kokkekpek/android-body-scroll-fix-css/tar.gz/d519c4976a3e0e5211e3e518d7b1c6cec30b392e"
 
 ansi-colors@^4.1.1:
   version "4.1.1"
